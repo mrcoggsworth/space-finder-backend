@@ -1,0 +1,5 @@
+@url = https://2g3l492534.execute-api.us-east-1.amazonaws.com/prod
+
+GET {{ url }}/hello
+Content-Type: application/json
+###

@@ -1,0 +1,15 @@
+{
+  "name": "space-finder-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mrcoggsworth/space-finder-backend.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.9",
+    "aws-cdk": "^2.8.0",
+    "aws-cdk-lib": "^2.8.0",
+    "constructs": "^10.0.37",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
